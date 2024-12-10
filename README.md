@@ -1,1 +1,2 @@
 # Capstone-Project-Ocular-Disease-Classification-Challenge
+This project investigates the application of Deep Learning techniques i.e ResNet-50 to classify ocular diseases within color fundus images where the dataset provided by Peking University was used.This project effectively categorize ocular diseases into eight distinctive classes: normal, diabetes, glaucoma, cataract, AMD, hypertension, myopia, and other abnormalities.
